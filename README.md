@@ -2,10 +2,9 @@
 
 ## 👨‍💻 About Me
 
-🎓 Data Science Student  
-🤖 Exploring Artificial Intelligence & Large Language Models  
-🚀 Organizer of beginner-friendly hackathons  
-📊 Interested in ML, NLP, and real-world AI systems  
+🎓 Data Science Student and Math Enthusiast
+🤖 Exploring Artificial Intelligence & Large Language Models   
+📊 Interested in ML/DL and real-world AI systems  
 
 ---
 
@@ -23,28 +22,14 @@
 ## 🔭 Currently Working On
 
 - Learning Large Language Models (LLMs)  
-- Building beginner-friendly AI projects  
-- Organizing university hackathon  
-- Strengthening ML & Data Science fundamentals  
-
----
-
-## 📊 GitHub Stats
-
-![Goutham's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+- Strengthening ML & Data Science fundamentals
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lakshmi-goutham-reddy-mulagondla-4a06741ab/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/ML-GouthamReddy)
 
 ---
 
