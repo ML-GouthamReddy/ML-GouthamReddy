@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 Data Science Student and Math Enthusiast
+🎓 Data Science Student and I like Math
 🤖 Exploring Artificial Intelligence & Large Language Models   
 📊 Interested in ML/DL and real-world AI systems  
 
