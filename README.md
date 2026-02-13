@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+M+L+Goutham+Reddy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=500&size=27&letterSpacing=1px&pause=1000&color=DF865F&center=true&vCenter=true&repeat=false&random=true&width=435&lines=Hi%2C+I+am+M.L.Goutham+Reddy)](https://git.io/typing-svg)
